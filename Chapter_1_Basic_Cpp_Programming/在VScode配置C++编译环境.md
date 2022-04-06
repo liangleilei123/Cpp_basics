@@ -2,7 +2,7 @@
 
 ## 1.下载安装VScode，网址百度直接搜索
 
-​	![https://github.com/liangleilei123/Essential_cpp/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0Basic_Cpp_Programming/image/image-20220406203838898.png](C:\Users\liang\AppData\Roaming\Typora\typora-user-images\image-20220406203838898.png)
+​	![https://github.com/liangleilei123/Essential_cpp/blob/main/Chapter_1_Basic_Cpp_Programming/image/image-20220406203838898.png](C:\Users\liang\AppData\Roaming\Typora\typora-user-images\image-20220406203838898.png)
 
 根据电脑版本下载相应安装包，下载。
 
