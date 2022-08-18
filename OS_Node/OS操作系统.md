@@ -58,7 +58,7 @@ mov sor des,32位汇编代码和16位汇编代码不同。整个启动过程用�
 - 系统调用实际上提供了应用程序进入内核的手段。
 - 硬件把内存割成了两个区域：用户态和核心态，对应用户段和内核段。  
 
-![image-20220630204939385](https://github.com/liangleilei123/Cpp_basics/blob/main/OS_Node/image/L3_3.png)
+![image-20220630204939385](image\L5_1.png)
 
 
 
